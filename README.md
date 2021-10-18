@@ -1,0 +1,1 @@
+# PredictorProyectoIA_Covid19PeruArequipa
